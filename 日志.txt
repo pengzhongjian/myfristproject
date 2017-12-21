@@ -1,3 +1,4 @@
 今天是个晴朗好日子，适合外出。
 天气预报提示，明天阴天转雨，外出请记得带伞。
 The weather forecast is inaccurate, it doesn't actually rain tomorrow
+The weather forecast is ccurate, it doesn't actually rain tomorrow
